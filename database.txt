@@ -9,3 +9,6 @@
 <div style="display:none">
 <a href="https://takaranews.com/">takaranews.com</a>
 </div>
+<div style="display:none">
+<a href="https://dashboard.uinbanten.ac.id/">dashboard.uinbanten.ac.id</a>
+</div>
